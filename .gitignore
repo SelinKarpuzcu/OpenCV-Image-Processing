@@ -1,11 +1,15 @@
-/.ipynb_checkpoints
-/1_Reading_and_Displaying_Images.py
-/checkerboard_18x18.png
-/checkerboard_84x84.jpg
-/checkerboard_color.png
-/checkerboard_fuzzy_18x18.jpg
-/coca-cola-logo.png
-/display_image.py
-/New_Zealand_Lake.jpg
-/opencv_bootcamp_assets_NB1.zip
-/Untitled.ipynb
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
